@@ -6,21 +6,27 @@
     border-radius: 16px;
 
 }
+.topbar{
+    padding: 0.5px;
+}
 .logo{
-    width: 3%;
-    height: 2%;
-    margin-left: 4%;
-    margin-top: 2%;
+    width: 95%;
+    margin-left: 8%;
+    margin-top: 15%;
 }
 .years{
-    width: 10%;
-    margin-left: 40%;
+    width: 30%;
+    margin-left: 70%;
 }
 .giet{
     color: #0049B7;
     margin-left: 15%;
-    font-size: 38px;
+    font-size: 34px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.clubname{
+    margin-top: 2%;
+    margin-left: 5%;
 }
 .intro{
     display: flex;
@@ -28,18 +34,18 @@
 .antennalogo{
     border-radius: 48%;
     width: 10%;
-    margin-left: 8%;
+    margin-left: 5%;
 }
 .heading{
     color:#0049B7 ;
     margin-left:15%;
-    font-size: 38px;
+    font-size: 48px;
 }
 .welcome{
     color:#ff1d58;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 54px;
-    margin-left: 21%;
+    margin-left: 38%;
     margin-top: 0.5%;
 }
 .sir{
