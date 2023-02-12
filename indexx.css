@@ -1,0 +1,98 @@
+
+.container{
+    background-color:#00b4db ;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 16px;
+
+}
+.topbar{
+    padding: 0.5px;
+}
+.logo{
+    width: 95%;
+    margin-left: 8%;
+    margin-top: 15%;
+}
+.years{
+    width: 30%;
+    margin-left: 70%;
+}
+.giet{
+    color: #0049B7;
+    margin-left: 15%;
+    font-size: 34px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.clubname{
+    margin-top: 2%;
+    margin-left: 5%;
+}
+.intro{
+    display: flex;
+}
+.antennalogo{
+    border-radius: 48%;
+    width: 10%;
+    margin-left: 5%;
+}
+.heading{
+    color:#0049B7 ;
+    margin-left:15%;
+    font-size: 48px;
+}
+.welcome{
+    color:#ff1d58;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 54px;
+    margin-left: 38%;
+    margin-top: 0.5%;
+}
+.sir{
+    margin-left: 45%;
+    border-radius: 48%;
+    width: 16%;
+    border-color: black;
+    border-width:5%;
+}
+.name{
+    margin-left: 40%;
+    font-size: 25px;
+}
+.position{
+    margin-left: 45%;
+    font-size: 25px;
+    margin-top: 1px;
+}
+.branch{
+    margin-left: 36%;
+    font-size: 25px;
+    margin-top: 1px;
+}
+.socialmedia{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 40%;
+    margin-right: 32%;
+    
+}
+   
+.linkedin{
+    width: 60%;
+    border-radius: 48%;
+    
+}
+.insta{
+    width: 27%;
+    border-radius: 48%;
+    margin-left: 45%;
+}
+.twitter{
+    width: 27%;
+    border-radius: 48%;
+    margin-left: 50%;
+}
+
+
+
